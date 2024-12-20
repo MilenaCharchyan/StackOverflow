@@ -7,9 +7,9 @@
 /frontend/.yarn/install-state.gz
 
 
-/backend/dist
-/backend/node_modules
-/backend/build
+/back/dist
+/back/node_modules
+/back/build
 # testing
 /coverage
 
@@ -40,4 +40,4 @@ yarn-error.log*
 next-env.d.ts
 
 
-/backend/.env
+/back/.env
